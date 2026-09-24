@@ -105,5 +105,5 @@ BERT significantly outperformed baseline models like SVM, CNN, and LSTM for news
 
 ## 👩‍💻 Author
 **Prakruthi S**  
-B.Tech CSE (AI & ML)  
+B.Tech CSE (Data Science,AI & ML)  
 RV University, Bangalore  
